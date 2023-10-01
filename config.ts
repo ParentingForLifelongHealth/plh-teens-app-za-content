@@ -9,6 +9,7 @@ config.app_data!.sheets_filter_function = (flow) =>
   );
 config.translations!.filter_language_codes = ["za_en", "za_zu", "za_xh", "za_tn", "za_st", "za_af"];
 
+config.app_data.output_path = "./app_data";
 // Override constants
 config.app_config!.APP_LANGUAGES!.default = "za_en";
 config.app_config!.APP_SIDEMENU_DEFAULTS!.title = "ParentApp (ZA)";
