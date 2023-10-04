@@ -11,7 +11,7 @@ config.translations!.filter_language_codes = ["za_en", "za_zu", "za_xh", "za_tn"
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-teens-app-za-content.git",
-  content_tag_latest: "1.1.1",
+  content_tag_latest: "1.1.2",
 };
 
 config.app_data.output_path = "./app_data";
