@@ -14,6 +14,7 @@ config.git = {
   content_tag_latest: "1.1.2",
 };
 
+config.api.db_name = "plh_teens_za"
 config.app_data.output_path = "./app_data";
 // Override constants
 config.app_config!.APP_LANGUAGES!.default = "za_en";
