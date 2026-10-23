@@ -10,7 +10,7 @@ config.app_data!.sheets_filter_function = (flow) =>
 config.translations!.filter_language_codes = ["za_en", "za_zu", "za_xh", "za_tn", "za_st", "za_af"];
 
 config.git = {
-  content_repo: "https://github.com/IDEMSInternational/plh-teens-app-za-content.git",
+  content_repo: "https://github.com/ParentingForLifelongHealth/plh-teens-app-za-content.git",
   content_tag_latest: "1.1.2",
 };
 
